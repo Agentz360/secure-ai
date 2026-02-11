@@ -1,5 +1,17 @@
 # @ai-sdk/angular
 
+## 2.0.80
+
+### Patch Changes
+
+- ai@6.0.79
+
+## 2.0.79
+
+### Patch Changes
+
+- 82c721e: Align with v6
+
 ## 2.0.78
 
 ### Patch Changes
