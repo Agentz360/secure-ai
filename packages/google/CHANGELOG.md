@@ -1,5 +1,17 @@
 # @ai-sdk/google
 
+## 3.0.26
+
+### Patch Changes
+
+- 4c27179: feat(google): allow using Gemini image models with `generateImage`
+
+## 3.0.25
+
+### Patch Changes
+
+- 99fbed8: feat: normalize provider specific model options type names and ensure they are exported
+
 ## 3.0.24
 
 ### Patch Changes
